@@ -1,3 +1,0 @@
-<profiles version="1">
- <profile speeds="preset=slower;preset=medium;preset=faster;preset=ultrafast" category="Generic (HD for web, mobile devices...)" name="Apple ProRes 422 [Davy]" extension="mov" args="f=mov properties=prores_422 vcodec=prores_ks vprofile=3 acodec=pcm_s16le"/>
-</profiles>
